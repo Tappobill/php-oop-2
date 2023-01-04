@@ -19,7 +19,6 @@ $products = [
     new Toy('Topini di peluche Trixie', 4.99, 'https://shop-cdn-m.mediazs.com/bilder/topini/di/peluche/trixie/7/140/42535_pla_trixie_plueschmaus_grau_und_weiss_ret_01_7.jpg', true, $categories['gatto'], 'Morbido con codina in corda', '8,5 cm x 10 cm'),
 ];
 
-var_dump($products);
 
 ?>
 
